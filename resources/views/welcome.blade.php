@@ -28,7 +28,7 @@
                     <br>
                     {{trans_choice('messages.apples', 0)}}
                     <br>
-                    {{ $date_message }} abuabu
+                    {{ $date_message }}
                 </div>
             </div>
         </div>
