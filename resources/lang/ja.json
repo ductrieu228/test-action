@@ -1,0 +1,4 @@
+{
+  "Welcome to our website, :Name": "当社のウェブサイトへようこそ!, :Name",
+  "apples" : "{0} There are none|{1} There are one|[2,19] There are some|[20,*] There are many"
+}
